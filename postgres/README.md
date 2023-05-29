@@ -1,5 +1,23 @@
 # database-expertise
 
+## Basic Info 
+
+<ul>
+      <li> Open source </li>
+      <li> Started Journey in 1986 </li>
+       <li> It offer ACID {atomicy , consistency , Isolation , Durability } </li>
+      <li> Object Relational Database Management {Means it has class and inheritance like features in query } </li>
+       
+</ul>
+
+### Some Important Naming conventions with respect to other databases 
+
+<img src="dbn.png">
+
+### Limits of postgresql 
+
+<img src="limits.png">
+
 ### Installation 
 
 ```
