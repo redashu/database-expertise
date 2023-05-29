@@ -7,6 +7,7 @@
       <li> Started Journey in 1986 </li>
        <li> It offer ACID {atomicy , consistency , Isolation , Durability } </li>
       <li> Object Relational Database Management {Means it has class and inheritance like features in query } </li>
+       <li> Run its socket in 5432 port over TCP </li>
        
 </ul>
 
